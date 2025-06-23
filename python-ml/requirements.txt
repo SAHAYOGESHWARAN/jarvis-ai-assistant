@@ -1,0 +1,21 @@
+# Speech Recognition and Synthesis
+SpeechRecognition
+pyttsx3
+gTTS
+
+# Computer Vision
+opencv-python
+numpy
+
+# NLP (Optional, depending on depth)
+# spacy
+# tensorflow
+
+# Web Server/API (if Python serves its own endpoints)
+# Flask
+# FastAPI
+
+# Other utilities
+requests
+Pillow # For image manipulation if needed by CV tasks
+python-dotenv
